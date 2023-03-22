@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
       themeMode: ThemeMode.system,
       debugShowCheckedModeBanner: false,
 	  // call method to check auth status
-      home: SettingsPage(),
+      home: HomePageTest(),
     );
   }
 }
